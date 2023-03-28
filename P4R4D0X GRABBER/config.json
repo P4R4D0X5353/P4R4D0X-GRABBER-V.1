@@ -1,0 +1,13 @@
+{
+    "botToken": "MTA4NjAxMzAxNTY2NjczNzE4Mw.GoacYa.5M-MAMMG6T7CRFHlkrrGGbDqCquSgXR4tBQq0A",
+    "logs_channel_id": "1086758364429684872",
+
+    "prefix": "$",
+    "command_name": "verify",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 1,
+    "message": "SUCCESFULLY VERIFIED!"
+}
